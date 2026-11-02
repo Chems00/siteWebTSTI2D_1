@@ -18,7 +18,7 @@ body {
 
 .hero h1 {
     margin: 8px 0;
-    color: #087f8c;
+    color: #330ec7;
     font-size: clamp(2rem, 5vw, 3rem);
     line-height: 1.15;
 }
