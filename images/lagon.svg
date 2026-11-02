@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#e9edf0"/>
+<rect x="0" y="0" width="1000" height="34" fill="#d7dde1"/>
+<circle cx="18" cy="17" r="5" fill="#f16b67"/><circle cx="36" cy="17" r="5" fill="#e8c45a"/><circle cx="54" cy="17" r="5" fill="#63bf82"/>
+<rect x="120" y="7" width="760" height="20" rx="10" fill="#f7f8f9"/>
+<text x="140" y="21" font-family="Arial" font-size="11" fill="#65727a">file:///.../index.html</text>
+<rect x="35" y="50" width="930" height="565" rx="5" fill="#ffffff"/>
+<text x="75" y="105" font-family="Arial" font-size="32" font-weight="bold" fill="#111">Les îles d'Émeraude</text>
+<text x="75" y="137" font-family="Arial" font-size="16" fill="#333">Un archipel à explorer, entre forêt et océan.</text>
+<text x="75" y="190" font-family="Arial" font-size="24" font-weight="bold" fill="#111">Trois bonnes raisons de visiter l'archipel</text>
+<text x="90" y="230" font-family="Arial" font-size="16" fill="#333">• Observer les oiseaux marins.</text>
+<text x="90" y="260" font-family="Arial" font-size="16" fill="#333">• Explorer les sentiers de la forêt.</text>
+<text x="90" y="290" font-family="Arial" font-size="16" fill="#333">• Découvrir les villages de pêcheurs.</text>
+<rect x="75" y="325" width="350" height="150" rx="8" fill="#b7e7e5"/>
+<path d="M75 420 Q150 360 230 425 T425 400 L425 475 L75 475Z" fill="#4aa6ad"/>
+<path d="M75 400 L150 350 L200 400 L265 340 L340 405 L390 365 L425 400" fill="#39775d"/>
+<text x="75" y="510" font-family="Arial" font-size="15" fill="#087f8c" text-decoration="underline">le site NOAA Ocean Service ↗</text>
+</svg>
