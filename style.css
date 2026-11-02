@@ -79,7 +79,7 @@ img {
 
 .cards {
     display: flex;
-    gap: 16px;
+    gap: 24px;
 }
 
 .card {
