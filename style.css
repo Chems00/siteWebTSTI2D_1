@@ -5,6 +5,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    font-size: 16px;
     color: #20343a;
     background-color: #f2f7f5;
     line-height: 1.6;
@@ -31,7 +32,7 @@ body {
     font-size: 0.8rem;
     font-weight: bold;
     letter-spacing: 0.18em;
-    color: #176b62;
+    color: #087c69;
 }
 
 nav {
@@ -97,7 +98,7 @@ img {
 
 footer {
     padding: 20px;
-    text-align: center;
+    text-align: left ;
     background-color: #20343a;
     color: #fff;
 }
