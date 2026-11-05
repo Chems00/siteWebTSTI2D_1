@@ -13,12 +13,12 @@ body {
 .hero {
     padding: 48px 20px;
     text-align: center;
-    background-color: #d9f0e9;
+    background-color: #9dcf9d;
 }
 
 .hero h1 {
     margin: 8px 0;
-    color: #087f8c;
+    color: #330ec7;
     font-size: clamp(2rem, 5vw, 3rem);
     line-height: 1.15;
 }
@@ -66,7 +66,7 @@ section {
 }
 
 h2, h3 {
-    color: #176b62;
+    color: #b3cdf2;
     line-height: 1.25;
 }
 
@@ -79,7 +79,7 @@ img {
 
 .cards {
     display: flex;
-    gap: 16px;
+    gap: 24px;
 }
 
 .card {
