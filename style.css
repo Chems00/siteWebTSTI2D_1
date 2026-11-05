@@ -5,6 +5,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    font-size: 16px;
     color: #20343a;
     background-color: #f2f7f5;
     line-height: 1.6;
@@ -13,7 +14,7 @@ body {
 .hero {
     padding: 49px 22px;
     text-align: center;
-    background-color: #d9f0e9;
+    background-color: #9dcf9d;
 }
 
 .hero h1 {
@@ -31,7 +32,7 @@ body {
     font-size: 0.8rem;
     font-weight: bold;
     letter-spacing: 0.18em;
-    color: #176b62;
+    color: #087c69;
 }
 
 nav {
@@ -43,16 +44,16 @@ nav {
 }
 
 a {
-    color: #000000;
+    color: #8f1616;
 }
 
 nav a {
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline ;
 }
 
 a:hover {
-    color: #d05b35;
+    color: #d03563;
     text-decoration: underline;
 }
 
@@ -66,7 +67,7 @@ section {
 }
 
 h2, h3 {
-    color: #176b62;
+    color: #b3cdf2;
     line-height: 1.25;
 }
 
@@ -87,7 +88,7 @@ img {
     padding: 20px;
     background-color: #fff;
     border: 1px solid #dce7e4;
-    border-radius: 12px;
+    border-radius: 20px;
     box-shadow: 0 3px 12px #183b3b18;
 }
 
@@ -97,7 +98,7 @@ img {
 
 footer {
     padding: 20px;
-    text-align: center;
+    text-align: left ;
     background-color: #20343a;
     color: #fff;
 }
