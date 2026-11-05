@@ -12,7 +12,7 @@ body {
 }
 
 .hero {
-    padding: 48px 20px;
+    padding: 49px 22px;
     text-align: center;
     background-color: #9dcf9d;
 }
@@ -80,7 +80,7 @@ img {
 
 .cards {
     display: flex;
-    gap: 24px;
+    gap: 20px;
 }
 
 .card {
@@ -117,7 +117,7 @@ footer p {
     }
 
     main {
-        width: min(100% - 24px, 1000px);
+        width: min(100% - 24px, 999px);
         margin-top: 24px;
     }
 }
