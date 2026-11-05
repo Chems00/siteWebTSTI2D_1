@@ -44,7 +44,7 @@ nav {
 }
 
 a {
-    color: #087f8c;
+    color: #8f1616;
 }
 
 nav a {
@@ -53,7 +53,7 @@ nav a {
 }
 
 a:hover {
-    color: #d05b35;
+    color: #d03563;
     text-decoration: underline;
 }
 
